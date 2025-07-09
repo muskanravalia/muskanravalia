@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muskanravalia
 - 👀 I’m interested in Coding...
-- 🌱 I’m currently learning .Data Analytics..
+- 🌱 I’m currently learning ..Generative AI..
 - 💞️ I’m looking to collaborate on .Python based companies..
 - 📫 How to reach me .ig @muskanravalia..
 - 😄 Pronouns: Her..
